@@ -1,0 +1,16 @@
+Algorithm for To-Do-List
+
+Step 1: Taking input task from the user And appending 
+        them into a list of tasks with serial number
+
+Step 2: print the tasks to the user
+
+Step 3: after complete asking user to write the serial number of the task , and it complete 
+
+Step 4: print the to be completed tasks to the user
+
+Step 5: use add task function to add the task
+
+Step 6: use task completed function 
+
+Step 7: Make this command line interference
